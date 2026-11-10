@@ -32,8 +32,8 @@ This project focuses on analyzing sales performance, customer demographics, prod
 
 ## 🖼️ Dashboard Preview
 
-![Motocard Dashboard](dashboard-preview)
-![Motocard Dashboard](dashboard-preview2)
+![Motocard Dashboard](dashboard-preview.png)
+![Motocard Dashboard](dashboard-preview2.png)
 ## 📁 Project Files
 
 - Excel workbook containing the data analysis and interactive dashboard.
